@@ -56,5 +56,31 @@ Requirement analysis involves several critical activities to ensure that the pro
 
 - **Requirement Validation**: 
   - After documenting and modeling the requirements, they are reviewed with stakeholders to ensure they accurately represent the needs of the business and users. Validation helps identify discrepancies or misunderstandings early, ensuring the final system will meet the specified requirements.
+ 
+## Types of Requirements
+
+In requirement analysis, it is important to distinguish between **Functional Requirements** and **Non-functional Requirements**, as each serves a different purpose in the software development process. Below are the definitions and examples of each type of requirement for the **Booking Management System**.
+
+### Functional Requirements
+
+Functional requirements describe the **specific behavior** or **functionality** of the system. These requirements define what the system should do and how it should behave under various conditions. They are usually driven by the needs of the business and users.
+
+Examples of **Functional Requirements** for the Booking Management System:
+- **User Registration**: The system must allow users to register by entering their personal details (name, email, phone number).
+- **Booking Creation**: The system must allow users to book a service by selecting a date, time, and available service provider.
+- **Booking Cancellation**: The system must allow users to cancel their bookings before a specified time.
+- **Payment Integration**: The system must integrate with payment gateways to allow users to make payments for their bookings.
+
+### Non-functional Requirements
+
+Non-functional requirements describe the **quality attributes**, such as performance, security, usability, and scalability, of the system. These requirements define how well the system should perform its functions, rather than specifying what functions the system should perform.
+
+Examples of **Non-functional Requirements** for the Booking Management System:
+- **Performance**: The system must be able to handle 1000 concurrent users without performance degradation.
+- **Security**: The system must encrypt all sensitive data, such as payment information and personal details, using SSL encryption.
+- **Usability**: The system must be user-friendly and allow users to complete a booking within three minutes.
+- **Scalability**: The system should be able to handle an increase in user traffic and expand to support additional services without major rework.
+
+
 ---
 Feel free to explore and contribute to the project!
