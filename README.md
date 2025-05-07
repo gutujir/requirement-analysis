@@ -81,6 +81,20 @@ Examples of **Non-functional Requirements** for the Booking Management System:
 - **Usability**: The system must be user-friendly and allow users to complete a booking within three minutes.
 - **Scalability**: The system should be able to handle an increase in user traffic and expand to support additional services without major rework.
 
+## Use Case Diagrams
+
+### What are Use Case Diagrams?
+
+Use Case Diagrams are a type of **behavioral diagram** used in **Unified Modeling Language (UML)** to represent the interactions between users (or "actors") and the system. They help visualize the functional requirements of a system by identifying what users (or other systems) can do with the system.
+
+### Benefits of Use Case Diagrams:
+- **Simplification**: They simplify complex systems by visualizing interactions and use cases.
+- **Stakeholder Communication**: Help communicate the system's functionality to stakeholders in an easily understandable way.
+- **Clear Scope Definition**: Define system boundaries by showing what actions are in scope for the system.
+
+### Use Case Diagram for the Booking Management System
+
+The use case diagram for the Booking Management System includes key actors and their interactions with the system. 
 
 ## Acceptance Criteria
 
