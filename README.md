@@ -82,5 +82,29 @@ Examples of **Non-functional Requirements** for the Booking Management System:
 - **Scalability**: The system should be able to handle an increase in user traffic and expand to support additional services without major rework.
 
 
+## Acceptance Criteria
+
+### What are Acceptance Criteria?
+
+**Acceptance Criteria** are the conditions that a software product must meet in order to be accepted by the end user, client, or system owner. They define the expected behavior of the system and serve as a guide for testing to ensure the system performs as intended. Acceptance criteria are often written in the form of "Given-When-Then" statements and are crucial for validating the system's functionality during the development and testing phases.
+
+### Importance of Acceptance Criteria
+
+- **Clarity**: They provide a clear understanding of what is expected for each feature or requirement.
+- **Testability**: Acceptance criteria help define specific tests that can be executed to verify that the feature works as intended.
+- **Stakeholder Alignment**: They ensure that all stakeholders (including developers, testers, and business owners) agree on what constitutes a successful feature implementation.
+- **Quality Assurance**: They serve as the foundation for acceptance testing, which helps to ensure that the software meets the required standards and functions as expected.
+
+### Example of Acceptance Criteria: Checkout Feature for Booking Management System
+
+For the **Checkout** feature in the **Booking Management System**, the acceptance criteria could be:
+
+1. **Given** the user has selected a service and is on the checkout page, **When** they enter valid payment details, **Then** the system should process the payment and confirm the booking.
+2. **Given** the user is on the checkout page, **When** they enter an invalid payment method, **Then** the system should display an error message indicating that the payment method is invalid.
+3. **Given** the user has made a successful payment, **When** the payment is confirmed, **Then** the system should send a booking confirmation email to the user.
+4. **Given** the user has selected a date and time for the service, **When** they confirm their booking, **Then** the system should display the service details and the payment summary before completing the transaction.
+
+These criteria ensure that the checkout process functions as expected, allowing for thorough testing and validation of the feature.
+
 ---
 Feel free to explore and contribute to the project!
