@@ -37,6 +37,24 @@ Requirement Analysis is essential for the successful delivery of a software proj
 
 ### 3. **Reduces Development Costs and Risks**
    When requirements are thoroughly analyzed, potential challenges, such as technical limitations, security concerns, or regulatory issues, can be identified early. This proactive approach helps mitigate risks and reduces costly changes later in the development process, which could arise from poorly defined or misunderstood requirements.
-   
+
+## Key Activities in Requirement Analysis
+
+Requirement analysis involves several critical activities to ensure that the project meets both business and technical objectives. Below are the five key activities involved:
+
+- **Requirement Gathering**: 
+  - This is the initial phase where the development team collects information from various stakeholders, including clients, users, and business analysts. It involves gathering data about the needs, goals, and expectations for the software system. Techniques like interviews, surveys, and document analysis are commonly used in this phase.
+
+- **Requirement Elicitation**: 
+  - This activity focuses on extracting detailed requirements from stakeholders. It involves asking the right questions, facilitating discussions, and identifying any ambiguities or missing information. The goal is to clarify what stakeholders need, not just what they say they want.
+
+- **Requirement Documentation**: 
+  - Once the requirements are gathered, they are documented in a structured format. This documentation serves as a reference for the entire development process. It may include functional and non-functional requirements, user stories, use cases, and system constraints, often written in tools like Confluence or Markdown.
+
+- **Requirement Analysis and Modeling**: 
+  - This activity involves analyzing the gathered requirements to ensure they are clear, complete, and feasible. In this phase, the requirements are often modeled using diagrams, flowcharts, or use case diagrams to help visualize how the system will function and interact with users and other systems.
+
+- **Requirement Validation**: 
+  - After documenting and modeling the requirements, they are reviewed with stakeholders to ensure they accurately represent the needs of the business and users. Validation helps identify discrepancies or misunderstandings early, ensuring the final system will meet the specified requirements.
 ---
 Feel free to explore and contribute to the project!
